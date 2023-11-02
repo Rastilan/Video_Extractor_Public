@@ -1,3 +1,10 @@
+# Reason for uploading this in a non-working state
+
+This program is made to download videos from a site that allows you to stream its content. That way I can watch it offline. However, as I'm not sure on the legal specifics, this extension release is only for my resume.
+This will not work as is, but can be modified to work.
+
+
+
 # VideoExtractor
 A program made to extract videos from a certain site.  
 
